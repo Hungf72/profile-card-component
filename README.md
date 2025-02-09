@@ -15,4 +15,4 @@ Your challenge is to build out this profile card component and get it looking as
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://profile-card-component-aq86oc4vh-hungf72s-projects.vercel.app)
+- Live Site URL: [My Solution](https://profile-card-component-aq86oc4vh-hungf72s-projects.vercel.app)
