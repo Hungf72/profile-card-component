@@ -12,3 +12,7 @@ Your challenge is to build out this profile card component and get it looking as
 
 ## Screenshot
 ![Alt text](profile-card-component-main/design/desktop-design.jpg)
+
+### Links
+
+- Live Site URL: [Add live site URL here](https://profile-card-component-aq86oc4vh-hungf72s-projects.vercel.app)
